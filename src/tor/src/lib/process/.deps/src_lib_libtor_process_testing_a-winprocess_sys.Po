@@ -1,0 +1,18 @@
+src/lib/process/src_lib_libtor_process_testing_a-winprocess_sys.o: \
+ src/lib/process/winprocess_sys.c /usr/include/stdc-predef.h orconfig.h \
+ src/lib/subsys/subsys.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ src/lib/process/winprocess_sys.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+orconfig.h:
+
+src/lib/subsys/subsys.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
+
+src/lib/process/winprocess_sys.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
